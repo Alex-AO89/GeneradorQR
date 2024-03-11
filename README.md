@@ -1,2 +1,2 @@
-Programacion_WebAO
-Mi repositorio en git hub por Alexis Ayala
+# Este es un generador QR
+Por Alexis Ayala
