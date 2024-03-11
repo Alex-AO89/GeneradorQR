@@ -1,1 +1,2 @@
-Este es un generador qr :D
+Programacion_WebAO
+Mi repositorio en git hub por Alexis Ayala
